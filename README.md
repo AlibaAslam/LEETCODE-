@@ -27,4 +27,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3110-score-of-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3110-score-of-a-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0263-ugly-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0263-ugly-number/) | Easy |
 <!---LeetCode Topics End-->
