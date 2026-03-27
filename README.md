@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlibaAslam/LEETCODE-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/AlibaAslam/LEETCODE-/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -52,6 +53,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/AlibaAslam/LEETCODE-/tree/main/0069-sqrtx/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -61,6 +63,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
