@@ -8,6 +8,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlibaAslam/LEETCODE-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/AlibaAslam/LEETCODE-/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -50,14 +52,17 @@
 | [0069-sqrtx](https://github.com/AlibaAslam/LEETCODE-/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/0070-climbing-stairs/) | Easy |
 | [0263-ugly-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/AlibaAslam/LEETCODE-/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Divide and Conquer
@@ -90,4 +95,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AlibaAslam/LEETCODE-/tree/main/0020-valid-parentheses/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
