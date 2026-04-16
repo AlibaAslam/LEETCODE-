@@ -52,6 +52,7 @@
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/AlibaAslam/LEETCODE-/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/0070-climbing-stairs/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0263-ugly-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/AlibaAslam/LEETCODE-/tree/main/0319-bulb-switcher/) | Medium |
