@@ -9,6 +9,7 @@
 | [0198-house-robber](https://github.com/AlibaAslam/LEETCODE-/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0860-lemonade-change](https://github.com/AlibaAslam/LEETCODE-/tree/main/0860-lemonade-change/) | Easy |
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Divide and Conquer
