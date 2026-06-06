@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlibaAslam/LEETCODE-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0198-house-robber](https://github.com/AlibaAslam/LEETCODE-/tree/main/0198-house-robber/) | Medium |
@@ -90,6 +91,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -152,6 +154,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlibaAslam/LEETCODE-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
