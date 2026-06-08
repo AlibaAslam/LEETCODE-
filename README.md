@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0031-next-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/AlibaAslam/LEETCODE-/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/AlibaAslam/LEETCODE-/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -44,6 +45,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0283-move-zeroes/) | Easy |
