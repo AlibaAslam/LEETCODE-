@@ -85,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AlibaAslam/LEETCODE-/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/AlibaAslam/LEETCODE-/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/AlibaAslam/LEETCODE-/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/AlibaAslam/LEETCODE-/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/AlibaAslam/LEETCODE-/tree/main/0069-sqrtx/) | Easy |
@@ -181,6 +182,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/AlibaAslam/LEETCODE-/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/AlibaAslam/LEETCODE-/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/AlibaAslam/LEETCODE-/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
