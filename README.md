@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/AlibaAslam/LEETCODE-/tree/main/0048-rotate-image/) | Medium |
@@ -81,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/AlibaAslam/LEETCODE-/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/AlibaAslam/LEETCODE-/tree/main/0067-add-binary/) | Easy |
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
@@ -199,4 +201,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
