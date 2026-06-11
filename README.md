@@ -105,6 +105,7 @@
 | [0326-power-of-three](https://github.com/AlibaAslam/LEETCODE-/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/AlibaAslam/LEETCODE-/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2652-sum-multiples](https://github.com/AlibaAslam/LEETCODE-/tree/main/2652-sum-multiples/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
