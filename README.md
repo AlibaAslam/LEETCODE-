@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/AlibaAslam/LEETCODE-/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/AlibaAslam/LEETCODE-/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -116,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/AlibaAslam/LEETCODE-/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
