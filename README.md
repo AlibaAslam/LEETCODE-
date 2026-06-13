@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/AlibaAslam/LEETCODE-/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0031-next-permutation/) | Medium |
@@ -48,6 +49,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AlibaAslam/LEETCODE-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/0075-sort-colors/) | Medium |
@@ -151,6 +153,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/AlibaAslam/LEETCODE-/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
 | [0860-lemonade-change](https://github.com/AlibaAslam/LEETCODE-/tree/main/0860-lemonade-change/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
