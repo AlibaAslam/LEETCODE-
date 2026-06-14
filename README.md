@@ -29,6 +29,7 @@
 | [0697-degree-of-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0860-lemonade-change](https://github.com/AlibaAslam/LEETCODE-/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/AlibaAslam/LEETCODE-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AlibaAslam/LEETCODE-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -123,6 +124,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/AlibaAslam/LEETCODE-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlibaAslam/LEETCODE-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
