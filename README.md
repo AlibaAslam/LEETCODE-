@@ -114,6 +114,7 @@
 | [0326-power-of-three](https://github.com/AlibaAslam/LEETCODE-/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AlibaAslam/LEETCODE-/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2652-sum-multiples](https://github.com/AlibaAslam/LEETCODE-/tree/main/2652-sum-multiples/) | Easy |
 ## Binary Search
@@ -189,6 +190,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/AlibaAslam/LEETCODE-/tree/main/0338-counting-bits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
