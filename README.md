@@ -33,6 +33,7 @@
 | [0896-monotonic-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AlibaAslam/LEETCODE-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0941-valid-mountain-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0941-valid-mountain-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlibaAslam/LEETCODE-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
