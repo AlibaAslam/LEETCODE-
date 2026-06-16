@@ -38,6 +38,7 @@
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3151-special-array-i](https://github.com/AlibaAslam/LEETCODE-/tree/main/3151-special-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3379-transformed-array/) | Easy |
@@ -146,6 +147,7 @@
 | [0697-degree-of-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AlibaAslam/LEETCODE-/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -176,6 +178,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -197,6 +200,7 @@
 | [0338-counting-bits](https://github.com/AlibaAslam/LEETCODE-/tree/main/0338-counting-bits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
