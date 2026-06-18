@@ -26,6 +26,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AlibaAslam/LEETCODE-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
 | [0697-degree-of-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0697-degree-of-an-array/) | Easy |
@@ -198,6 +199,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AlibaAslam/LEETCODE-/tree/main/0020-valid-parentheses/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/AlibaAslam/LEETCODE-/tree/main/0739-daily-temperatures/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -258,5 +260,6 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/AlibaAslam/LEETCODE-/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
