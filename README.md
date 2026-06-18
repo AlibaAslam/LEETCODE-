@@ -46,6 +46,7 @@
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [3046-split-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3046-split-the-array/) | Easy |
 | [3151-special-array-i](https://github.com/AlibaAslam/LEETCODE-/tree/main/3151-special-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3379-transformed-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -158,6 +159,7 @@
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AlibaAslam/LEETCODE-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [3046-split-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3046-split-the-array/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -189,6 +191,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [3046-split-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3046-split-the-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
