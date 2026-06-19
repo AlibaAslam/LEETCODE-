@@ -109,6 +109,7 @@
 | [0058-length-of-last-word](https://github.com/AlibaAslam/LEETCODE-/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/AlibaAslam/LEETCODE-/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/AlibaAslam/LEETCODE-/tree/main/0076-minimum-window-substring/) | Hard |
+| [0168-excel-sheet-column-title](https://github.com/AlibaAslam/LEETCODE-/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AlibaAslam/LEETCODE-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
@@ -125,6 +126,7 @@
 | [0070-climbing-stairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/0070-climbing-stairs/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/AlibaAslam/LEETCODE-/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/AlibaAslam/LEETCODE-/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0231-power-of-two](https://github.com/AlibaAslam/LEETCODE-/tree/main/0231-power-of-two/) | Easy |
