@@ -115,6 +115,7 @@
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0796-rotate-string/) | Easy |
 | [3110-score-of-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3110-score-of-a-string/) | Easy |
+| [3340-check-balanced-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3340-check-balanced-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
