@@ -72,6 +72,7 @@
 | [0031-next-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/AlibaAslam/LEETCODE-/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -109,6 +110,7 @@
 | [0058-length-of-last-word](https://github.com/AlibaAslam/LEETCODE-/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/AlibaAslam/LEETCODE-/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/AlibaAslam/LEETCODE-/tree/main/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/AlibaAslam/LEETCODE-/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/AlibaAslam/LEETCODE-/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AlibaAslam/LEETCODE-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
