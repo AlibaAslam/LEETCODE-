@@ -59,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/AlibaAslam/LEETCODE-/tree/main/0067-add-binary/) | Easy |
+| [0412-fizz-buzz](https://github.com/AlibaAslam/LEETCODE-/tree/main/0412-fizz-buzz/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
 | [3379-transformed-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3379-transformed-array/) | Easy |
@@ -117,6 +118,7 @@
 | [0171-excel-sheet-column-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/AlibaAslam/LEETCODE-/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AlibaAslam/LEETCODE-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0520-detect-capital](https://github.com/AlibaAslam/LEETCODE-/tree/main/0520-detect-capital/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -143,6 +145,7 @@
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/AlibaAslam/LEETCODE-/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/AlibaAslam/LEETCODE-/tree/main/0326-power-of-three/) | Easy |
+| [0412-fizz-buzz](https://github.com/AlibaAslam/LEETCODE-/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1486-xor-operation-in-an-array/) | Easy |
