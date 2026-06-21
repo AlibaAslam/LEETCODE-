@@ -41,6 +41,7 @@
 | [0941-valid-mountain-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0941-valid-mountain-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlibaAslam/LEETCODE-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1470-shuffle-the-array/) | Easy |
+| [1528-shuffle-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1528-shuffle-string/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1652-defuse-the-bomb](https://github.com/AlibaAslam/LEETCODE-/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1720-decode-xored-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1720-decode-xored-array/) | Easy |
@@ -125,6 +126,7 @@
 | [0680-valid-palindrome-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0796-rotate-string/) | Easy |
+| [1528-shuffle-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1528-shuffle-string/) | Easy |
 | [3110-score-of-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3110-score-of-a-string/) | Easy |
 | [3340-check-balanced-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3340-check-balanced-string/) | Easy |
 ## Math
