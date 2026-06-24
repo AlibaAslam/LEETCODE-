@@ -88,6 +88,7 @@
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
+| [3794-reverse-string-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@
 | [1528-shuffle-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1528-shuffle-string/) | Easy |
 | [3110-score-of-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3110-score-of-a-string/) | Easy |
 | [3340-check-balanced-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3340-check-balanced-string/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
