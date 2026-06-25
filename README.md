@@ -51,6 +51,7 @@
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/AlibaAslam/LEETCODE-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [3046-split-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3046-split-the-array/) | Easy |
 | [3151-special-array-i](https://github.com/AlibaAslam/LEETCODE-/tree/main/3151-special-array-i/) | Easy |
@@ -67,6 +68,7 @@
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/AlibaAslam/LEETCODE-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3379-transformed-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3379-transformed-array/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/AlibaAslam/LEETCODE-/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -89,6 +91,7 @@
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
+| [2562-find-the-array-concatenation-value](https://github.com/AlibaAslam/LEETCODE-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
