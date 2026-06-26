@@ -82,6 +82,7 @@
 | [0075-sort-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/AlibaAslam/LEETCODE-/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/AlibaAslam/LEETCODE-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -194,6 +195,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/AlibaAslam/LEETCODE-/tree/main/0076-minimum-window-substring/) | Hard |
+| [0141-linked-list-cycle](https://github.com/AlibaAslam/LEETCODE-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/AlibaAslam/LEETCODE-/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/AlibaAslam/LEETCODE-/tree/main/0290-word-pattern/) | Easy |
@@ -331,4 +333,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/AlibaAslam/LEETCODE-/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
