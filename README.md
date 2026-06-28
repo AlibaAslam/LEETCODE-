@@ -292,6 +292,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/AlibaAslam/LEETCODE-/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/AlibaAslam/LEETCODE-/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/AlibaAslam/LEETCODE-/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
@@ -337,6 +338,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AlibaAslam/LEETCODE-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0707-design-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
