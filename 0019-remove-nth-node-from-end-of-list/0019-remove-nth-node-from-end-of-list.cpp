@@ -9,7 +9,7 @@ public:
         }
         
         if (n >= sz)
-            return head->next;
+          return head->next;
         
         temp = head;
         for (int i = 1; i < sz - n; i++) {
