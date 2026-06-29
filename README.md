@@ -158,6 +158,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/AlibaAslam/LEETCODE-/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/AlibaAslam/LEETCODE-/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/AlibaAslam/LEETCODE-/tree/main/0062-unique-paths/) | Medium |
@@ -298,6 +299,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/AlibaAslam/LEETCODE-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/AlibaAslam/LEETCODE-/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -347,6 +349,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/AlibaAslam/LEETCODE-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
