@@ -346,6 +346,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AlibaAslam/LEETCODE-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0203-remove-linked-list-elements/) | Easy |
