@@ -48,24 +48,6 @@ public:
         {
             temp->next = new ListNode(carry);
         }
-        return dummy->next;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
+        return dummy->next;        
     }
 };
