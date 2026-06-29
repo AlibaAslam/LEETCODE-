@@ -86,6 +86,7 @@
 | [0125-valid-palindrome](https://github.com/AlibaAslam/LEETCODE-/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AlibaAslam/LEETCODE-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/AlibaAslam/LEETCODE-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -204,6 +205,7 @@
 | [0141-linked-list-cycle](https://github.com/AlibaAslam/LEETCODE-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/AlibaAslam/LEETCODE-/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0160-intersection-of-two-linked-lists](https://github.com/AlibaAslam/LEETCODE-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/AlibaAslam/LEETCODE-/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -356,6 +358,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AlibaAslam/LEETCODE-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/AlibaAslam/LEETCODE-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0234-palindrome-linked-list/) | Easy |
