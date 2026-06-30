@@ -179,6 +179,7 @@
 | [0412-fizz-buzz](https://github.com/AlibaAslam/LEETCODE-/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AlibaAslam/LEETCODE-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AlibaAslam/LEETCODE-/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -364,6 +365,7 @@
 | [0234-palindrome-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AlibaAslam/LEETCODE-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
