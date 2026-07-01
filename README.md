@@ -374,6 +374,7 @@
 | [0817-linked-list-components](https://github.com/AlibaAslam/LEETCODE-/tree/main/0817-linked-list-components/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AlibaAslam/LEETCODE-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1669-merge-in-between-linked-lists](https://github.com/AlibaAslam/LEETCODE-/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
