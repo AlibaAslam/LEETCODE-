@@ -156,6 +156,7 @@
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1528-shuffle-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/AlibaAslam/LEETCODE-/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3110-score-of-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3110-score-of-a-string/) | Easy |
@@ -184,6 +185,7 @@
 | [0412-fizz-buzz](https://github.com/AlibaAslam/LEETCODE-/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AlibaAslam/LEETCODE-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1486-xor-operation-in-an-array/) | Easy |
