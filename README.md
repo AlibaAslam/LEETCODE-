@@ -100,6 +100,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
+| [1768-merge-strings-alternately](https://github.com/AlibaAslam/LEETCODE-/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/AlibaAslam/LEETCODE-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -156,6 +157,7 @@
 | [0796-rotate-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1528-shuffle-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1528-shuffle-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/AlibaAslam/LEETCODE-/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3110-score-of-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3110-score-of-a-string/) | Easy |
 | [3340-check-balanced-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3340-check-balanced-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/3794-reverse-string-prefix/) | Easy |
