@@ -32,6 +32,7 @@
 | [0523-continuous-subarray-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/AlibaAslam/LEETCODE-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0605-can-place-flowers/) | Easy |
 | [0697-degree-of-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/AlibaAslam/LEETCODE-/tree/main/0739-daily-temperatures/) | Medium |
@@ -255,6 +256,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AlibaAslam/LEETCODE-/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/AlibaAslam/LEETCODE-/tree/main/0860-lemonade-change/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
