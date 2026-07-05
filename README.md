@@ -35,6 +35,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AlibaAslam/LEETCODE-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/AlibaAslam/LEETCODE-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0697-degree-of-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0739-daily-temperatures](https://github.com/AlibaAslam/LEETCODE-/tree/main/0739-daily-temperatures/) | Medium |
@@ -347,6 +348,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/AlibaAslam/LEETCODE-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/AlibaAslam/LEETCODE-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/AlibaAslam/LEETCODE-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AlibaAslam/LEETCODE-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/AlibaAslam/LEETCODE-/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Trie
