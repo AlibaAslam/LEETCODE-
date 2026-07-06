@@ -49,6 +49,7 @@
 | [0941-valid-mountain-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0941-valid-mountain-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AlibaAslam/LEETCODE-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AlibaAslam/LEETCODE-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/AlibaAslam/LEETCODE-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlibaAslam/LEETCODE-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AlibaAslam/LEETCODE-/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1470-shuffle-the-array/) | Easy |
@@ -249,6 +250,7 @@
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0817-linked-list-components](https://github.com/AlibaAslam/LEETCODE-/tree/main/0817-linked-list-components/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AlibaAslam/LEETCODE-/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/AlibaAslam/LEETCODE-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
