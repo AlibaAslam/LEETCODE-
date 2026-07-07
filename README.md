@@ -82,6 +82,7 @@
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2562-find-the-array-concatenation-value](https://github.com/AlibaAslam/LEETCODE-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3379-transformed-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3379-transformed-array/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -179,6 +180,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AlibaAslam/LEETCODE-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/AlibaAslam/LEETCODE-/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3110-score-of-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3110-score-of-a-string/) | Easy |
 | [3340-check-balanced-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3340-check-balanced-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -309,6 +311,7 @@
 | [0739-daily-temperatures](https://github.com/AlibaAslam/LEETCODE-/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
