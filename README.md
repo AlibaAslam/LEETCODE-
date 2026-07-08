@@ -74,6 +74,7 @@
 | [3151-special-array-i](https://github.com/AlibaAslam/LEETCODE-/tree/main/3151-special-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3379-transformed-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3912-valid-elements-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3912-valid-elements-in-an-array/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/AlibaAslam/LEETCODE-/tree/main/3925-concatenate-array-with-reverse/) | Easy |
@@ -339,10 +340,12 @@
 | [1486-xor-operation-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1720-decode-xored-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [3674-minimum-operations-to-equalize-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/AlibaAslam/LEETCODE-/tree/main/0319-bulb-switcher/) | Medium |
+| [3674-minimum-operations-to-equalize-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
