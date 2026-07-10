@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/AlibaAslam/LEETCODE-/tree/main/0048-rotate-image/) | Medium |
+| [0055-jump-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/AlibaAslam/LEETCODE-/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/0075-sort-colors/) | Medium |
@@ -152,6 +153,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AlibaAslam/LEETCODE-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0055-jump-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/AlibaAslam/LEETCODE-/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlibaAslam/LEETCODE-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -292,6 +294,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AlibaAslam/LEETCODE-/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0055-jump-game/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/AlibaAslam/LEETCODE-/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0605-can-place-flowers/) | Easy |
