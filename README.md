@@ -121,6 +121,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0925-long-pressed-name](https://github.com/AlibaAslam/LEETCODE-/tree/main/0925-long-pressed-name/) | Easy |
 | [0948-bag-of-tokens](https://github.com/AlibaAslam/LEETCODE-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -192,6 +193,7 @@
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
+| [0925-long-pressed-name](https://github.com/AlibaAslam/LEETCODE-/tree/main/0925-long-pressed-name/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AlibaAslam/LEETCODE-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1528-shuffle-string/) | Easy |
