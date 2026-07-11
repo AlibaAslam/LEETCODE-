@@ -99,6 +99,7 @@
 | [0011-container-with-most-water](https://github.com/AlibaAslam/LEETCODE-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
@@ -169,6 +170,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AlibaAslam/LEETCODE-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/AlibaAslam/LEETCODE-/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/AlibaAslam/LEETCODE-/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/AlibaAslam/LEETCODE-/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/AlibaAslam/LEETCODE-/tree/main/0076-minimum-window-substring/) | Hard |
@@ -414,6 +416,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0796-rotate-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
