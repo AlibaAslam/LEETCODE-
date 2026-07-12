@@ -228,6 +228,7 @@
 | [0319-bulb-switcher](https://github.com/AlibaAslam/LEETCODE-/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/AlibaAslam/LEETCODE-/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/AlibaAslam/LEETCODE-/tree/main/0412-fizz-buzz/) | Easy |
+| [0441-arranging-coins](https://github.com/AlibaAslam/LEETCODE-/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -247,6 +248,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/AlibaAslam/LEETCODE-/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0441-arranging-coins](https://github.com/AlibaAslam/LEETCODE-/tree/main/0441-arranging-coins/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AlibaAslam/LEETCODE-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AlibaAslam/LEETCODE-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AlibaAslam/LEETCODE-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
