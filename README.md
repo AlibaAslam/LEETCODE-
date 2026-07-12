@@ -66,6 +66,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1720-decode-xored-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/AlibaAslam/LEETCODE-/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -152,6 +153,7 @@
 | [0948-bag-of-tokens](https://github.com/AlibaAslam/LEETCODE-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AlibaAslam/LEETCODE-/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
