@@ -120,6 +120,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0443-string-compression](https://github.com/AlibaAslam/LEETCODE-/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0541-reverse-string-ii/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/AlibaAslam/LEETCODE-/tree/main/0763-partition-labels/) | Medium |
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
@@ -234,6 +235,7 @@
 | [0441-arranging-coins](https://github.com/AlibaAslam/LEETCODE-/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AlibaAslam/LEETCODE-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -253,6 +255,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/AlibaAslam/LEETCODE-/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/AlibaAslam/LEETCODE-/tree/main/0441-arranging-coins/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/AlibaAslam/LEETCODE-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AlibaAslam/LEETCODE-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AlibaAslam/LEETCODE-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
