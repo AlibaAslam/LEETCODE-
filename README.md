@@ -63,6 +63,7 @@
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/AlibaAslam/LEETCODE-/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/AlibaAslam/LEETCODE-/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1720-decode-xored-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/AlibaAslam/LEETCODE-/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -379,6 +380,7 @@
 | [0048-rotate-image](https://github.com/AlibaAslam/LEETCODE-/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlibaAslam/LEETCODE-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/AlibaAslam/LEETCODE-/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
