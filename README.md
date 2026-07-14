@@ -16,6 +16,7 @@
 | [0056-merge-intervals](https://github.com/AlibaAslam/LEETCODE-/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/0075-sort-colors/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/AlibaAslam/LEETCODE-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlibaAslam/LEETCODE-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/AlibaAslam/LEETCODE-/tree/main/0134-gas-station/) | Medium |
@@ -353,6 +354,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AlibaAslam/LEETCODE-/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/AlibaAslam/LEETCODE-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -439,6 +441,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AlibaAslam/LEETCODE-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/AlibaAslam/LEETCODE-/tree/main/0739-daily-temperatures/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
