@@ -57,6 +57,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/AlibaAslam/LEETCODE-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AlibaAslam/LEETCODE-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/AlibaAslam/LEETCODE-/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlibaAslam/LEETCODE-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/AlibaAslam/LEETCODE-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AlibaAslam/LEETCODE-/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -245,6 +246,7 @@
 | [0633-sum-of-square-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AlibaAslam/LEETCODE-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1512-number-of-good-pairs/) | Easy |
