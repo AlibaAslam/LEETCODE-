@@ -6,7 +6,7 @@ public:
      
       for(int i: arr)
       {
-        if(i <= 500)// to ensure that i should be under constraint and value does not exceed from 500 , it should be from 0 to 500 only
+        if(i <= 500)// to ensure that it should be under constraint and value does not exceed from 500 , it should be from 0 to 500 only
         {
           freq[i]++;
         }
