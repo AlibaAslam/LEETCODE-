@@ -201,6 +201,7 @@
 | [0171-excel-sheet-column-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0179-largest-number/) | Medium |
 | [0290-word-pattern](https://github.com/AlibaAslam/LEETCODE-/tree/main/0290-word-pattern/) | Easy |
+| [0299-bulls-and-cows](https://github.com/AlibaAslam/LEETCODE-/tree/main/0299-bulls-and-cows/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/AlibaAslam/LEETCODE-/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -288,6 +289,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/AlibaAslam/LEETCODE-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/AlibaAslam/LEETCODE-/tree/main/0290-word-pattern/) | Easy |
+| [0299-bulls-and-cows](https://github.com/AlibaAslam/LEETCODE-/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/AlibaAslam/LEETCODE-/tree/main/0383-ransom-note/) | Easy |
@@ -349,6 +351,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0299-bulls-and-cows](https://github.com/AlibaAslam/LEETCODE-/tree/main/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/AlibaAslam/LEETCODE-/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
