@@ -61,6 +61,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlibaAslam/LEETCODE-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/AlibaAslam/LEETCODE-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AlibaAslam/LEETCODE-/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlibaAslam/LEETCODE-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -302,6 +303,7 @@
 | [0846-hand-of-straights](https://github.com/AlibaAslam/LEETCODE-/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AlibaAslam/LEETCODE-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/AlibaAslam/LEETCODE-/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -351,6 +353,7 @@
 | [0383-ransom-note](https://github.com/AlibaAslam/LEETCODE-/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3046-split-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3046-split-the-array/) | Easy |
