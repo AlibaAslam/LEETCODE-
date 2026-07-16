@@ -259,6 +259,7 @@
 | [1512-number-of-good-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AlibaAslam/LEETCODE-/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2652-sum-multiples](https://github.com/AlibaAslam/LEETCODE-/tree/main/2652-sum-multiples/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AlibaAslam/LEETCODE-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,4 +508,8 @@
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/AlibaAslam/LEETCODE-/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/AlibaAslam/LEETCODE-/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AlibaAslam/LEETCODE-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
