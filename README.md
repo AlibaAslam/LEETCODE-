@@ -29,6 +29,7 @@
 | [0238-product-of-array-except-self](https://github.com/AlibaAslam/LEETCODE-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/AlibaAslam/LEETCODE-/tree/main/0274-h-index/) | Medium |
+| [0275-h-index-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0275-h-index-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/AlibaAslam/LEETCODE-/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -285,6 +286,7 @@
 | [0069-sqrtx](https://github.com/AlibaAslam/LEETCODE-/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
+| [0275-h-index-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/AlibaAslam/LEETCODE-/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
