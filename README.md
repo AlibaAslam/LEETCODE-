@@ -234,6 +234,7 @@
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0925-long-pressed-name](https://github.com/AlibaAslam/LEETCODE-/tree/main/0925-long-pressed-name/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AlibaAslam/LEETCODE-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/AlibaAslam/LEETCODE-/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -369,6 +370,7 @@
 | [0860-lemonade-change](https://github.com/AlibaAslam/LEETCODE-/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/AlibaAslam/LEETCODE-/tree/main/0948-bag-of-tokens/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 ## Counting Sort
@@ -402,6 +404,7 @@
 | [0503-next-greater-element-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/AlibaAslam/LEETCODE-/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AlibaAslam/LEETCODE-/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -487,6 +490,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/AlibaAslam/LEETCODE-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/AlibaAslam/LEETCODE-/tree/main/0739-daily-temperatures/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
