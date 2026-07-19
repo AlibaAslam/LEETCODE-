@@ -240,6 +240,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AlibaAslam/LEETCODE-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/AlibaAslam/LEETCODE-/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/AlibaAslam/LEETCODE-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/2418-sort-the-people/) | Easy |
 | [3110-score-of-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/3110-score-of-a-string/) | Easy |
@@ -337,6 +338,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/AlibaAslam/LEETCODE-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/2418-sort-the-people/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3046-split-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3046-split-the-array/) | Easy |
@@ -390,6 +392,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/AlibaAslam/LEETCODE-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3046-split-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3046-split-the-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Memoization
@@ -425,6 +428,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1720-decode-xored-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/AlibaAslam/LEETCODE-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
