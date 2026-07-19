@@ -92,6 +92,7 @@
 | [2562-find-the-array-concatenation-value](https://github.com/AlibaAslam/LEETCODE-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3046-split-the-array/) | Easy |
 | [3151-special-array-i](https://github.com/AlibaAslam/LEETCODE-/tree/main/3151-special-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3379-transformed-array/) | Easy |
@@ -341,6 +342,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/AlibaAslam/LEETCODE-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/2418-sort-the-people/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3046-split-the-array/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Divide and Conquer
@@ -393,6 +395,7 @@
 | [1512-number-of-good-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/AlibaAslam/LEETCODE-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3046-split-the-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Memoization
