@@ -47,6 +47,7 @@
 | [0724-find-pivot-index](https://github.com/AlibaAslam/LEETCODE-/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/AlibaAslam/LEETCODE-/tree/main/0739-daily-temperatures/) | Medium |
 | [0817-linked-list-components](https://github.com/AlibaAslam/LEETCODE-/tree/main/0817-linked-list-components/) | Medium |
+| [0819-most-common-word](https://github.com/AlibaAslam/LEETCODE-/tree/main/0819-most-common-word/) | Easy |
 | [0846-hand-of-straights](https://github.com/AlibaAslam/LEETCODE-/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/AlibaAslam/LEETCODE-/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AlibaAslam/LEETCODE-/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -231,6 +232,7 @@
 | [0763-partition-labels](https://github.com/AlibaAslam/LEETCODE-/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0796-rotate-string/) | Easy |
+| [0819-most-common-word](https://github.com/AlibaAslam/LEETCODE-/tree/main/0819-most-common-word/) | Easy |
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
 | [0925-long-pressed-name](https://github.com/AlibaAslam/LEETCODE-/tree/main/0925-long-pressed-name/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -325,6 +327,7 @@
 | [0763-partition-labels](https://github.com/AlibaAslam/LEETCODE-/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/AlibaAslam/LEETCODE-/tree/main/0771-jewels-and-stones/) | Easy |
 | [0817-linked-list-components](https://github.com/AlibaAslam/LEETCODE-/tree/main/0817-linked-list-components/) | Medium |
+| [0819-most-common-word](https://github.com/AlibaAslam/LEETCODE-/tree/main/0819-most-common-word/) | Easy |
 | [0846-hand-of-straights](https://github.com/AlibaAslam/LEETCODE-/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AlibaAslam/LEETCODE-/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/AlibaAslam/LEETCODE-/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -382,6 +385,7 @@
 | [0383-ransom-note](https://github.com/AlibaAslam/LEETCODE-/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
+| [0819-most-common-word](https://github.com/AlibaAslam/LEETCODE-/tree/main/0819-most-common-word/) | Easy |
 | [1051-height-checker](https://github.com/AlibaAslam/LEETCODE-/tree/main/1051-height-checker/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1512-number-of-good-pairs/) | Easy |
