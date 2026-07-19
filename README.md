@@ -397,6 +397,7 @@
 | [0020-valid-parentheses](https://github.com/AlibaAslam/LEETCODE-/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/AlibaAslam/LEETCODE-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AlibaAslam/LEETCODE-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/AlibaAslam/LEETCODE-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/AlibaAslam/LEETCODE-/tree/main/0739-daily-temperatures/) | Medium |
@@ -495,6 +496,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AlibaAslam/LEETCODE-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AlibaAslam/LEETCODE-/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Linked List
@@ -524,6 +526,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AlibaAslam/LEETCODE-/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/0707-design-linked-list/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
