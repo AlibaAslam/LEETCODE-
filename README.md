@@ -201,6 +201,7 @@
 | [0070-climbing-stairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlibaAslam/LEETCODE-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/AlibaAslam/LEETCODE-/tree/main/0198-house-robber/) | Medium |
+| [0264-ugly-number-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0264-ugly-number-ii/) | Medium |
 | [0338-counting-bits](https://github.com/AlibaAslam/LEETCODE-/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlibaAslam/LEETCODE-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -268,6 +269,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0231-power-of-two](https://github.com/AlibaAslam/LEETCODE-/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0263-ugly-number/) | Easy |
+| [0264-ugly-number-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/AlibaAslam/LEETCODE-/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/AlibaAslam/LEETCODE-/tree/main/0326-power-of-three/) | Easy |
@@ -318,6 +320,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/AlibaAslam/LEETCODE-/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/AlibaAslam/LEETCODE-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0264-ugly-number-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/AlibaAslam/LEETCODE-/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/AlibaAslam/LEETCODE-/tree/main/0299-bulls-and-cows/) | Medium |
@@ -359,6 +362,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0264-ugly-number-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
