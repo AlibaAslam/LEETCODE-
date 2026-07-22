@@ -35,6 +35,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/AlibaAslam/LEETCODE-/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -176,6 +177,7 @@
 | [0274-h-index](https://github.com/AlibaAslam/LEETCODE-/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0414-third-maximum-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
 | [0846-hand-of-straights](https://github.com/AlibaAslam/LEETCODE-/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/0881-boats-to-save-people/) | Medium |
