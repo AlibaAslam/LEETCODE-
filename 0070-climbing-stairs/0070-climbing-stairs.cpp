@@ -1,14 +1,28 @@
 class Solution {
 public:
-    int climbStairs(int n) {
-        int arr[n+1];
-        arr[0]=1;
-        arr[1]=1;
-        for(int i=2;i<=n;i++)
+    int stair(int n, vector<int>&dp)
+    {
+        if(n<=1)
+        return 1;
+
+        if(dp[n]!=-1)
         {
-            arr[i]=(arr[i-1]+arr[i-2]);
+            return dp[n];
         }
-        return arr[n];
+      dp[n] = stair(n-1, dp)+stair(n-2,dp); 
+      return dp[n];
+    }
+    int climbStairs(int n) {
+
+        // THIS RECURSION APPROACH GIVES TIME LIMIT EXCEEDED
+        // if(n<=1)
+        // return 1;
+        //  return climbStairs(n-1)+climbStairs(n-2);
+
+        vector<int>dp(n+1,-1);
+        return stair(n, dp);
+        
+
 
         
     }
