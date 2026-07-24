@@ -32,6 +32,7 @@
 | [0275-h-index-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0275-h-index-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/AlibaAslam/LEETCODE-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/AlibaAslam/LEETCODE-/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -208,6 +209,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlibaAslam/LEETCODE-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/AlibaAslam/LEETCODE-/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0264-ugly-number-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/AlibaAslam/LEETCODE-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/AlibaAslam/LEETCODE-/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlibaAslam/LEETCODE-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -307,6 +309,7 @@
 | [0275-h-index-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/AlibaAslam/LEETCODE-/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/AlibaAslam/LEETCODE-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/AlibaAslam/LEETCODE-/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/AlibaAslam/LEETCODE-/tree/main/0441-arranging-coins/) | Easy |
