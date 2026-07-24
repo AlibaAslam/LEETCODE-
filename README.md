@@ -232,6 +232,7 @@
 | [0168-excel-sheet-column-title](https://github.com/AlibaAslam/LEETCODE-/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0179-largest-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0179-largest-number/) | Medium |
+| [0205-isomorphic-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/AlibaAslam/LEETCODE-/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/AlibaAslam/LEETCODE-/tree/main/0299-bulls-and-cows/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -332,6 +333,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/AlibaAslam/LEETCODE-/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0160-intersection-of-two-linked-lists](https://github.com/AlibaAslam/LEETCODE-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0205-isomorphic-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0264-ugly-number-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/AlibaAslam/LEETCODE-/tree/main/0290-word-pattern/) | Easy |
