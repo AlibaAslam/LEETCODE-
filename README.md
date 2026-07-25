@@ -197,6 +197,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AlibaAslam/LEETCODE-/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2418-sort-the-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/2418-sort-the-people/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/AlibaAslam/LEETCODE-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
@@ -298,6 +299,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/AlibaAslam/LEETCODE-/tree/main/2235-add-two-integers/) | Easy |
 | [2652-sum-multiples](https://github.com/AlibaAslam/LEETCODE-/tree/main/2652-sum-multiples/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/AlibaAslam/LEETCODE-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AlibaAslam/LEETCODE-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
