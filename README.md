@@ -310,6 +310,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/AlibaAslam/LEETCODE-/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0275-h-index-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0275-h-index-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/AlibaAslam/LEETCODE-/tree/main/0278-first-bad-version/) | Easy |
@@ -452,6 +453,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/AlibaAslam/LEETCODE-/tree/main/0067-add-binary/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/AlibaAslam/LEETCODE-/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -599,6 +601,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -612,6 +615,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
