@@ -44,6 +44,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AlibaAslam/LEETCODE-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/AlibaAslam/LEETCODE-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0697-degree-of-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0697-degree-of-an-array/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
@@ -184,6 +185,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0846-hand-of-straights](https://github.com/AlibaAslam/LEETCODE-/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -289,6 +291,7 @@
 | [0441-arranging-coins](https://github.com/AlibaAslam/LEETCODE-/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AlibaAslam/LEETCODE-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
