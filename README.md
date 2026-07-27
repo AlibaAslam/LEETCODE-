@@ -75,6 +75,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/AlibaAslam/LEETCODE-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AlibaAslam/LEETCODE-/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlibaAslam/LEETCODE-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -194,6 +195,7 @@
 | [1200-minimum-absolute-difference](https://github.com/AlibaAslam/LEETCODE-/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AlibaAslam/LEETCODE-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AlibaAslam/LEETCODE-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -387,6 +389,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
