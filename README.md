@@ -96,6 +96,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AlibaAslam/LEETCODE-/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2418-sort-the-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/2418-sort-the-people/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/AlibaAslam/LEETCODE-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -122,6 +123,7 @@
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/AlibaAslam/LEETCODE-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3379-transformed-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3379-transformed-array/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -167,6 +169,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AlibaAslam/LEETCODE-/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/AlibaAslam/LEETCODE-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/AlibaAslam/LEETCODE-/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
