@@ -92,6 +92,7 @@
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AlibaAslam/LEETCODE-/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -418,6 +419,7 @@
 | [0948-bag-of-tokens](https://github.com/AlibaAslam/LEETCODE-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
