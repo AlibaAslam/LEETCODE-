@@ -14,6 +14,7 @@
 | [0048-rotate-image](https://github.com/AlibaAslam/LEETCODE-/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/AlibaAslam/LEETCODE-/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/AlibaAslam/LEETCODE-/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/AlibaAslam/LEETCODE-/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
