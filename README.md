@@ -627,6 +627,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -636,6 +637,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -647,6 +649,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0222-count-complete-tree-nodes/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
