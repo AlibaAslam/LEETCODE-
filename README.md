@@ -96,6 +96,7 @@
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/AlibaAslam/LEETCODE-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -128,6 +129,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AlibaAslam/LEETCODE-/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/AlibaAslam/LEETCODE-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/AlibaAslam/LEETCODE-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
@@ -273,6 +275,7 @@
 | [1528-shuffle-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/AlibaAslam/LEETCODE-/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/AlibaAslam/LEETCODE-/tree/main/1816-truncate-sentence/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/AlibaAslam/LEETCODE-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/AlibaAslam/LEETCODE-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2418-sort-the-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/2418-sort-the-people/) | Easy |
