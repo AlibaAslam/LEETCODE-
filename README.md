@@ -619,6 +619,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0112-path-sum/) | Easy |
@@ -629,6 +630,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0112-path-sum/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -637,6 +639,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0112-path-sum/) | Easy |
@@ -650,4 +653,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0112-path-sum/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0099-recover-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
