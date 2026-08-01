@@ -315,6 +315,7 @@
 | [0263-ugly-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/AlibaAslam/LEETCODE-/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/AlibaAslam/LEETCODE-/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/AlibaAslam/LEETCODE-/tree/main/0412-fizz-buzz/) | Easy |
@@ -511,6 +512,7 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/AlibaAslam/LEETCODE-/tree/main/0319-bulb-switcher/) | Medium |
 | [3674-minimum-operations-to-equalize-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 ## Bucket Sort
@@ -688,5 +690,6 @@
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/AlibaAslam/LEETCODE-/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
