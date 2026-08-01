@@ -111,6 +111,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/AlibaAslam/LEETCODE-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/AlibaAslam/LEETCODE-/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3046-split-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3046-split-the-array/) | Easy |
@@ -224,6 +225,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AlibaAslam/LEETCODE-/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2418-sort-the-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/2418-sort-the-people/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/AlibaAslam/LEETCODE-/tree/main/2706-buy-two-chocolates/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AlibaAslam/LEETCODE-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/AlibaAslam/LEETCODE-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -452,6 +454,7 @@
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [2706-buy-two-chocolates](https://github.com/AlibaAslam/LEETCODE-/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
