@@ -93,6 +93,7 @@
 | [1720-decode-xored-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/AlibaAslam/LEETCODE-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/AlibaAslam/LEETCODE-/tree/main/1816-truncate-sentence/) | Easy |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AlibaAslam/LEETCODE-/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
@@ -129,6 +130,7 @@
 | [1260-shift-2d-grid](https://github.com/AlibaAslam/LEETCODE-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/AlibaAslam/LEETCODE-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AlibaAslam/LEETCODE-/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AlibaAslam/LEETCODE-/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/AlibaAslam/LEETCODE-/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AlibaAslam/LEETCODE-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -350,6 +352,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/AlibaAslam/LEETCODE-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlibaAslam/LEETCODE-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AlibaAslam/LEETCODE-/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/AlibaAslam/LEETCODE-/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Hash Table
@@ -559,6 +562,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/AlibaAslam/LEETCODE-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/AlibaAslam/LEETCODE-/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AlibaAslam/LEETCODE-/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
