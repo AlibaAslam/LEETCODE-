@@ -60,6 +60,7 @@
 | [0846-hand-of-straights](https://github.com/AlibaAslam/LEETCODE-/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/AlibaAslam/LEETCODE-/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AlibaAslam/LEETCODE-/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/0881-boats-to-save-people/) | Medium |
 | [0896-monotonic-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AlibaAslam/LEETCODE-/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -245,6 +246,7 @@
 | [0338-counting-bits](https://github.com/AlibaAslam/LEETCODE-/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/AlibaAslam/LEETCODE-/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0877-stone-game/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlibaAslam/LEETCODE-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -327,6 +329,7 @@
 | [0523-continuous-subarray-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0877-stone-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AlibaAslam/LEETCODE-/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -703,4 +706,5 @@
 | ------- | ------- |
 | [0292-nim-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/AlibaAslam/LEETCODE-/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
