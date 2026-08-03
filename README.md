@@ -26,6 +26,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0179-largest-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/AlibaAslam/LEETCODE-/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/AlibaAslam/LEETCODE-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
@@ -241,6 +242,7 @@
 | [0070-climbing-stairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AlibaAslam/LEETCODE-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/AlibaAslam/LEETCODE-/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0213-house-robber-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0264-ugly-number-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/AlibaAslam/LEETCODE-/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0338-counting-bits](https://github.com/AlibaAslam/LEETCODE-/tree/main/0338-counting-bits/) | Easy |
