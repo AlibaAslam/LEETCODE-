@@ -329,6 +329,7 @@
 | [0523-continuous-subarray-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0670-maximum-swap](https://github.com/AlibaAslam/LEETCODE-/tree/main/0670-maximum-swap/) | Medium |
 | [0877-stone-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0877-stone-game/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AlibaAslam/LEETCODE-/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -447,6 +448,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/AlibaAslam/LEETCODE-/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0561-array-partition](https://github.com/AlibaAslam/LEETCODE-/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/AlibaAslam/LEETCODE-/tree/main/0605-can-place-flowers/) | Easy |
+| [0670-maximum-swap](https://github.com/AlibaAslam/LEETCODE-/tree/main/0670-maximum-swap/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0763-partition-labels](https://github.com/AlibaAslam/LEETCODE-/tree/main/0763-partition-labels/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/AlibaAslam/LEETCODE-/tree/main/0826-most-profit-assigning-work/) | Medium |
