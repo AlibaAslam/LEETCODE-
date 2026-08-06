@@ -511,6 +511,7 @@
 | [0503-next-greater-element-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/AlibaAslam/LEETCODE-/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/AlibaAslam/LEETCODE-/tree/main/0844-backspace-string-compare/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AlibaAslam/LEETCODE-/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AlibaAslam/LEETCODE-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -682,6 +683,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -697,6 +699,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -714,6 +717,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -729,6 +733,7 @@
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
