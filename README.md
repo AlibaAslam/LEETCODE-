@@ -106,6 +106,7 @@
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AlibaAslam/LEETCODE-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2032-two-out-of-three](https://github.com/AlibaAslam/LEETCODE-/tree/main/2032-two-out-of-three/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -427,6 +428,7 @@
 | [1512-number-of-good-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2032-two-out-of-three](https://github.com/AlibaAslam/LEETCODE-/tree/main/2032-two-out-of-three/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/AlibaAslam/LEETCODE-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -535,6 +537,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AlibaAslam/LEETCODE-/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1720-decode-xored-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1720-decode-xored-array/) | Easy |
+| [2032-two-out-of-three](https://github.com/AlibaAslam/LEETCODE-/tree/main/2032-two-out-of-three/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/AlibaAslam/LEETCODE-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
