@@ -70,6 +70,7 @@
 | [0905-sort-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0941-valid-mountain-array/) | Easy |
 | [0948-bag-of-tokens](https://github.com/AlibaAslam/LEETCODE-/tree/main/0948-bag-of-tokens/) | Medium |
+| [0954-array-of-doubled-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AlibaAslam/LEETCODE-/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AlibaAslam/LEETCODE-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/AlibaAslam/LEETCODE-/tree/main/1051-height-checker/) | Easy |
@@ -225,6 +226,7 @@
 | [0881-boats-to-save-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0948-bag-of-tokens](https://github.com/AlibaAslam/LEETCODE-/tree/main/0948-bag-of-tokens/) | Medium |
+| [0954-array-of-doubled-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1051-height-checker](https://github.com/AlibaAslam/LEETCODE-/tree/main/1051-height-checker/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/AlibaAslam/LEETCODE-/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/AlibaAslam/LEETCODE-/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -426,6 +428,7 @@
 | [0819-most-common-word](https://github.com/AlibaAslam/LEETCODE-/tree/main/0819-most-common-word/) | Easy |
 | [0846-hand-of-straights](https://github.com/AlibaAslam/LEETCODE-/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AlibaAslam/LEETCODE-/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0954-array-of-doubled-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/AlibaAslam/LEETCODE-/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AlibaAslam/LEETCODE-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -482,6 +485,7 @@
 | [0860-lemonade-change](https://github.com/AlibaAslam/LEETCODE-/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/AlibaAslam/LEETCODE-/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/AlibaAslam/LEETCODE-/tree/main/0948-bag-of-tokens/) | Medium |
+| [0954-array-of-doubled-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1903-largest-odd-number-in-string/) | Easy |
