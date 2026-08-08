@@ -84,6 +84,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/AlibaAslam/LEETCODE-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AlibaAslam/LEETCODE-/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1436-destination-city](https://github.com/AlibaAslam/LEETCODE-/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1470-shuffle-the-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AlibaAslam/LEETCODE-/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -297,6 +298,7 @@
 | [0925-long-pressed-name](https://github.com/AlibaAslam/LEETCODE-/tree/main/0925-long-pressed-name/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AlibaAslam/LEETCODE-/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1436-destination-city](https://github.com/AlibaAslam/LEETCODE-/tree/main/1436-destination-city/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AlibaAslam/LEETCODE-/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/AlibaAslam/LEETCODE-/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -427,6 +429,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/AlibaAslam/LEETCODE-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1436-destination-city](https://github.com/AlibaAslam/LEETCODE-/tree/main/1436-destination-city/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
