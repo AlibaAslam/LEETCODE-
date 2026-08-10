@@ -83,6 +83,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/AlibaAslam/LEETCODE-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlibaAslam/LEETCODE-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/AlibaAslam/LEETCODE-/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AlibaAslam/LEETCODE-/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -195,6 +196,7 @@
 | [0925-long-pressed-name](https://github.com/AlibaAslam/LEETCODE-/tree/main/0925-long-pressed-name/) | Easy |
 | [0948-bag-of-tokens](https://github.com/AlibaAslam/LEETCODE-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AlibaAslam/LEETCODE-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/AlibaAslam/LEETCODE-/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -237,6 +239,7 @@
 | [1288-remove-covered-intervals](https://github.com/AlibaAslam/LEETCODE-/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AlibaAslam/LEETCODE-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -398,6 +401,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AlibaAslam/LEETCODE-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/AlibaAslam/LEETCODE-/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AlibaAslam/LEETCODE-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/AlibaAslam/LEETCODE-/tree/main/1894-find-the-student-that-will-replace-the-chalk/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
