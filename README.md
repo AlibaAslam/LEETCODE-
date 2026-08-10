@@ -373,6 +373,7 @@
 | [2235-add-two-integers](https://github.com/AlibaAslam/LEETCODE-/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/AlibaAslam/LEETCODE-/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2652-sum-multiples](https://github.com/AlibaAslam/LEETCODE-/tree/main/2652-sum-multiples/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/AlibaAslam/LEETCODE-/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AlibaAslam/LEETCODE-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/AlibaAslam/LEETCODE-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AlibaAslam/LEETCODE-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
