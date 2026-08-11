@@ -729,6 +729,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -747,6 +748,7 @@
 | [0733-flood-fill](https://github.com/AlibaAslam/LEETCODE-/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -766,6 +768,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -777,6 +780,7 @@
 | [0226-invert-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/AlibaAslam/LEETCODE-/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
