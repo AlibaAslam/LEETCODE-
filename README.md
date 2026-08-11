@@ -725,6 +725,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AlibaAslam/LEETCODE-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -743,6 +744,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AlibaAslam/LEETCODE-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/AlibaAslam/LEETCODE-/tree/main/0733-flood-fill/) | Easy |
@@ -764,6 +766,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/AlibaAslam/LEETCODE-/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AlibaAslam/LEETCODE-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -785,6 +788,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AlibaAslam/LEETCODE-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Game Theory
