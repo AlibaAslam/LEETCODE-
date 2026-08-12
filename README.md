@@ -733,6 +733,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AlibaAslam/LEETCODE-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -774,6 +775,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AlibaAslam/LEETCODE-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0965-univalued-binary-tree/) | Easy |
@@ -794,6 +796,7 @@
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AlibaAslam/LEETCODE-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/AlibaAslam/LEETCODE-/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Game Theory
