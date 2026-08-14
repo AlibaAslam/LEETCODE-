@@ -128,6 +128,7 @@
 | [2562-find-the-array-concatenation-value](https://github.com/AlibaAslam/LEETCODE-/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/AlibaAslam/LEETCODE-/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/AlibaAslam/LEETCODE-/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AlibaAslam/LEETCODE-/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AlibaAslam/LEETCODE-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
