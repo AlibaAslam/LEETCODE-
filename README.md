@@ -29,6 +29,7 @@
 | [0213-house-robber-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/AlibaAslam/LEETCODE-/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0260-single-number-iii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/AlibaAslam/LEETCODE-/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0275-h-index-ii/) | Medium |
@@ -574,6 +575,7 @@
 | [0067-add-binary](https://github.com/AlibaAslam/LEETCODE-/tree/main/0067-add-binary/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/AlibaAslam/LEETCODE-/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/AlibaAslam/LEETCODE-/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/AlibaAslam/LEETCODE-/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/AlibaAslam/LEETCODE-/tree/main/0338-counting-bits/) | Easy |
