@@ -138,6 +138,7 @@
 | [3467-transform-array-by-parity](https://github.com/AlibaAslam/LEETCODE-/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/AlibaAslam/LEETCODE-/tree/main/3693-climbing-stairs-ii/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AlibaAslam/LEETCODE-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3912-valid-elements-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3912-valid-elements-in-an-array/) | Easy |
@@ -585,6 +586,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/AlibaAslam/LEETCODE-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3674-minimum-operations-to-equalize-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/3674-minimum-operations-to-equalize-array/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AlibaAslam/LEETCODE-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
