@@ -385,6 +385,7 @@
 | [2029-stone-game-ix](https://github.com/AlibaAslam/LEETCODE-/tree/main/2029-stone-game-ix/) | Medium |
 | [2235-add-two-integers](https://github.com/AlibaAslam/LEETCODE-/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/AlibaAslam/LEETCODE-/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2525-categorize-box-according-to-criteria](https://github.com/AlibaAslam/LEETCODE-/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2652-sum-multiples](https://github.com/AlibaAslam/LEETCODE-/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/AlibaAslam/LEETCODE-/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AlibaAslam/LEETCODE-/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
