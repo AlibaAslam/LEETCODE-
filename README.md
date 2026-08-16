@@ -112,6 +112,7 @@
 | [1929-concatenation-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AlibaAslam/LEETCODE-/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2029-stone-game-ix](https://github.com/AlibaAslam/LEETCODE-/tree/main/2029-stone-game-ix/) | Medium |
 | [2032-two-out-of-three](https://github.com/AlibaAslam/LEETCODE-/tree/main/2032-two-out-of-three/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -379,6 +380,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AlibaAslam/LEETCODE-/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/AlibaAslam/LEETCODE-/tree/main/2029-stone-game-ix/) | Medium |
 | [2235-add-two-integers](https://github.com/AlibaAslam/LEETCODE-/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/AlibaAslam/LEETCODE-/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2652-sum-multiples](https://github.com/AlibaAslam/LEETCODE-/tree/main/2652-sum-multiples/) | Easy |
@@ -519,6 +521,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AlibaAslam/LEETCODE-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1537-get-the-maximum-score](https://github.com/AlibaAslam/LEETCODE-/tree/main/1537-get-the-maximum-score/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/AlibaAslam/LEETCODE-/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2029-stone-game-ix](https://github.com/AlibaAslam/LEETCODE-/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AlibaAslam/LEETCODE-/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AlibaAslam/LEETCODE-/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
@@ -538,6 +541,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/AlibaAslam/LEETCODE-/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/AlibaAslam/LEETCODE-/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2029-stone-game-ix](https://github.com/AlibaAslam/LEETCODE-/tree/main/2029-stone-game-ix/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/AlibaAslam/LEETCODE-/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/AlibaAslam/LEETCODE-/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AlibaAslam/LEETCODE-/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -822,4 +826,17 @@
 | [0292-nim-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/AlibaAslam/LEETCODE-/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/AlibaAslam/LEETCODE-/tree/main/0877-stone-game/) | Medium |
+| [2029-stone-game-ix](https://github.com/AlibaAslam/LEETCODE-/tree/main/2029-stone-game-ix/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/AlibaAslam/LEETCODE-/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/AlibaAslam/LEETCODE-/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/AlibaAslam/LEETCODE-/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
